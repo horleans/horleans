@@ -10,7 +10,7 @@ Também faço parte da gerencia do nucleo de infra da [SCS](https://www.linkedin
 
 ## Objetivo
 
-Este perfil é destinado a busca de conhecimento e compartilhamento de informações sobre TI, infraestrutura de redes fisicas e virtuais.
+Este perfil é destinado a busca de conhecimento e compartilhamento de informações sobre TI, infraestrutura de redes fisicas e virtuais, cyber security.
 
 #TI
 #infra
@@ -30,4 +30,5 @@ Este perfil é destinado a busca de conhecimento e compartilhamento de informaç
 #dev
 #sip
 #voip
+#cybersecurity
 
