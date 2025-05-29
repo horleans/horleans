@@ -2,9 +2,9 @@
 
 ## 🚀📱💻📡📹📚💡💰
 
-Fala galera, trabalho com Rede de Computadores e Telecom, atuei em provedores de internet como [Jupiter Internet](www.jupiter.com.br) e [Oncabo](www.oncabo.com.br). 
+Fala galera, trabalho com Rede de Computadores e Telecom, atuei em provedores de internet como [Jupiter Internet](https://jupiter.com.br/) e [Oncabo](https://oncabo.com.br/). 
 
-Hoje trabalho na [Tectronic Serviços](www.tectronic.ind.br) no gerenciamento de rede Optica, UTP e Wifi e administração de CFTV industrial prestando serviço para empresas de Papel e Celulose como Suzano, Bracell e Veracel.
+Hoje trabalho na [Tectronic Serviços](https://www.tectronic.ind.br/) no gerenciamento de rede Optica, UTP e Wifi e administração de CFTV industrial prestando serviço para empresas de Papel e Celulose como Suzano, Bracell e Veracel.
 
 ## Objetivo
 
