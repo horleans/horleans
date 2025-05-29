@@ -1,7 +1,7 @@
 # Horleans aqui! 👋
 
 
-## 🚀 Sobre mim
+## 🚀📱💻📡📹📚💡💰
 
 Me chamo Horleans®
 
@@ -28,4 +28,6 @@ Perfil destinado a busca de conhecimento e compartilhamento de informações sob
 #wi-fi
 #cabeamentoestruturado
 #dev
+#sip
+#voip
 
