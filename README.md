@@ -1,18 +1,16 @@
-# Horleans aqui! 👋
-
+# Horleans® aqui! 👋
 
 ## 🚀📱💻📡📹📚💡💰
 
-Me chamo Horleans®
-
-Trabalho com Rede de Computadores e Telecom, atuei em provedores de internet como Jupiter Internet e Oncabo. 
+Fala galera, trabalho com Rede de Computadores e Telecom, atuei em provedores de internet como Jupiter Internet e Oncabo. 
 
 Hoje trabalho na Tectronic Serviços no gerenciamento de rede Optica, UTP e Wifi e administração de CFTV industrial prestando serviço para empresas de Papel e Celulose como Suzano, Bracell e Veracel.
 
 ## Objetivo
 
-Perfil destinado a busca de conhecimento e compartilhamento de informações sobre infraestrutura de redes fisicas e virtuais.
+Este perfil é destinado a busca de conhecimento e compartilhamento de informações sobre TI, infraestrutura de redes fisicas e virtuais.
 
+#TI
 #infra
 #devops
 #AD
